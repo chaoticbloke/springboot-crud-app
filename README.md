@@ -4,7 +4,7 @@ Note :'Post' referes here which we put on social media ;)
 
 concept/terminologies used : ResponseEnity, Custom exceptions, jpa and hibernate.
 <br />
-Deployed on heroku :
+<b>Deployed on heroku :</b>
 <br />
 GET: https://springboot-crud-app.herokuapp.com/posts
 <br />
