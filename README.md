@@ -14,7 +14,7 @@ PUT:https://springboot-crud-app.herokuapp.com/posts/post
 <br />
 DELETE:https://springboot-crud-app.herokuapp.com/posts/4
 <br />
-Sample Object :
+<b>Sample Object :</b>
 {
     "id": 4,
     "title": "new title update",
