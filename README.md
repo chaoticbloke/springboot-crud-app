@@ -21,3 +21,5 @@ DELETE:https://springboot-crud-app.herokuapp.com/posts/4
     "date": "2021-10-23T11:19:42.013Z",
     "user": "new name"
 }
+
+Note :Use Postman to perform CRUD on these URLs.
